@@ -2,7 +2,7 @@
 - 👀 I’m interested in bioinformatics.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on fun projects
-- 📫 How to reach me ...
+
 
 <!---
 angelaassurian/angelaassurian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
